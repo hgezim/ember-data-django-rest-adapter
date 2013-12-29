@@ -1,8 +1,25 @@
 {
-"name": "ember-data-django-rest-adapter',
-"version": "0.13.1",
-"main": ["dist/ember-data-django-rest-adapter.js", "dist/ember-data-django-rest-adapter.min.js", "dist/ember-data-django-rest-adapter.prod.js"],
-"dependencies": {
- "ember-data": "1.0.0-beta.4"
-}
+  name: 'ember-data-django-rest-adapter',
+  version: '0.13.1',
+  homepage: 'https://github.com/hgezim/ember-data-django-rest-adapter',
+  description: 'ember-data adaptor for django-rest framework',
+  main: "dist/ember-data-django-rest-adapter.json",
+  keywords: [
+    'django',
+    'rest',
+    'ember-data',
+    'ember'
+  ],
+  authors: [
+    'Gezim Hoxha'
+  ],
+  license: 'MIT',
+  private: true,
+  ignore: [
+    '**/.*',
+    'node_modules',
+    'bower_components',
+    'test',
+    'tests'
+  ]
 }
