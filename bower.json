@@ -1,7 +1,7 @@
 {
 "name": "ember-data-django-rest-adapter',
 "version": "0.13.1",
-"main": ["src/adapter.js", "src/main.js", "src/serializer.js"],
+"main": ["dist/ember-data-django-rest-adapter.js", "dist/ember-data-django-rest-adapter.min.js", "dist/ember-data-django-rest-adapter.prod.js"],
 "dependencies": {
  "ember-data": "1.0.0-beta.4"
 }
