@@ -3,7 +3,7 @@
   version: '0.13.1',
   homepage: 'https://github.com/hgezim/ember-data-django-rest-adapter',
   description: 'ember-data adaptor for django-rest framework',
-  main: 'dist/ember-data-django-rest-adapter.json',
+  main: 'dist/ember-data-django-rest-adapter.js',
   keywords: [
     'django',
     'rest',
